@@ -1,4 +1,3 @@
-requests==2.22.0
-treelib==1.5.5
-paramiko==2.7.1
-cvprac==1.0.4
+# PyAVD must follow the exact same version as the Ansible collection.
+# For development this should be installed as an editable install as specified in requirement-dev.txt
+pyavd[ansible-collection]==5.5.0.dev2
