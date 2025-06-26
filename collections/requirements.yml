@@ -1,5 +1,6 @@
 ---
 collections:
   - name: arista.avd
-    version: 5.4.0
+    version: 4.3.0
   - name: arista.cvp
+    version: 3.13.0
