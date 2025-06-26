@@ -3,4 +3,4 @@ collections:
   - name: arista.avd
     version: 4.3.0
   - name: arista.cvp
-    version: 3.13.0
+    version: 3.12.0
